@@ -1,7 +1,13 @@
 # SD-GCN
 
-We recognise that the code may be a little messy and are working to make it as easy to understand and use as possible. 
+About the dataset: 
 
-We will continue to work on improving the code to ensure that others can use and understand my code more easily. 
+You can get the required dataset in the Data folder, which contains four datasets: Twitter, rest14, lap14, and rest15.
 
-Thank you for your understanding and support.
+About model: 
+
+you can get the required model in the model folder.
+
+We are in the process of organizing other relevant information, please be patient and thank you for your understanding and support.
+
+Hope these materials can be helpful to you.
