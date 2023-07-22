@@ -6,7 +6,7 @@ You can get the required dataset in the Data folder, which contains four dataset
 
 About model: 
 
-you can get the required model in the model folder.
+You can get the required model in the model folder.
 
 We are in the process of organizing other relevant information, please be patient and thank you for your understanding and support.
 
